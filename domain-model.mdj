@@ -3932,8 +3932,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGYgZH9NLa2xL0="
 									},
-									"name": "Integer",
-									"type": ""
+									"name": "Integer"
 								}
 							]
 						},
@@ -4013,8 +4012,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGYgZqUsbiX/p0="
 									},
-									"name": "String",
-									"type": ""
+									"name": "String"
 								}
 							]
 						}
